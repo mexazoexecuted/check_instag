@@ -37,7 +37,7 @@ Sebuah alat analisis profil Instagram yang dikembangkan **./MexazoExecuted** unt
 ### Metode 1: Instalasi Otomatis
 ```bash
 # Clone atau download script ini
-git clone [https://github.com/mexazoexecuted/check_instag/]
+git clone https://github.com/mexazoexecuted/check_instag/
 cd check_intag
 
 # Jalankan script (akan install dependencies otomatis)
@@ -78,8 +78,7 @@ Kategori Informasi
 🐛 Melaporkan Bug
 
 Jika Anda menemukan bug atau masalah, silakan laporkan melalui:
-Click Di Bawah ini 👇
-[Telegram](https://t.me/@Abenkkyoy)
+Click Di [DISINI](https://t.me/@Abenkkyoy)
 
 Kami sangat menghargai kontribusi Anda dalam meningkatkan kualitas tool ini.
 
